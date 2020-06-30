@@ -1,15 +1,15 @@
 {
-  "name": "Lambda Study Group",
+  "name": "Guia do Programador",
   "display": "standalone",
-  "short_name": "lambda",
-  "theme_color": "#c070a0",
+  "short_name": "guia",
+  "theme_color": "#EC4853",
   "start_url": "/",
-  "background_color": "#e4e4e4",
+  "background_color": "#081B39",
   "manifest_version": 2,
   "version": "1",
   "icons": [
     {
-      "src": "https://lambda-study-group.github.io/assets/logo.png",
+      "src": "https://guia-do-programador.github.io/assets/logo.png",
       "sizes": "128x128",
       "type": "image/png"
     }
