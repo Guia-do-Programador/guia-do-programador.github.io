@@ -5,15 +5,14 @@ module Contents exposing (..)
 
 
 title =
-    "Lambda study group!"
+    "Guia do Programador!"
 
 
 description =
     """
     O intuito do grupo é a participação coletiva de todos e o aprendizado de
-    cada um. No grupo do telegram você pode tirar dúvidas, sugerir projetos e
-    conversar sobre temas relacionados à programação funcional. Para praticar
-    temos alguns repositórios em que você pode resolver alguns exercicios.
+    cada um. Para isso preparamos um guia que reune diversos conteúdos de alta qualidade para que você não perca mais oportunidades. No grupo do telegram você pode tirar dúvidas, sugerir projetos e
+    conversar sobre temas relacionados à programação competiviva e algoritmos. Para praticar temos alguns repositórios em que você pode resolver alguns exercicios, além de uma série de exercícios que estão sendo traduzidos.
     """
 
 
@@ -22,13 +21,13 @@ invite =
 
 
 telegramLinkData =
-    { url = "https://t.me/lambdastudygroup"
+    { url = "https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g"
     , label = "Telegram"
     }
 
 
 githubLinkData =
-    { url = "https://github.com/lambda-study-group"
+    { url = "https://github.com/Guia-do-Programador/"
     , label = "GitHub"
     }
 

@@ -1,6 +1,6 @@
 {
-  "name": "lambda-study-group.github.io",
-  "description": "O site lindão do Lambda Study Group",
+  "name": "guia-do-programador.github.io",
+  "description": "O site lindão do Guia do Programador",
   "main": "src/Main.elm",
   "scripts": {
     "start": "elm-live src/Main.elm --open --start-page=index.html -- --output=elm.js",
