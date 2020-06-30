@@ -5,15 +5,15 @@ import Css.Media as Media exposing (only, screen, withMedia)
 
 
 colorRaw =
-    { primary = "#D872E9"
-    , background = "#000000"
+    { primary = "#E0444C"
+    , background = "#081B39"
     }
 
 
 color =
     { text = hex "FFFFFF"
-    , link = hex "E499F0"
-    , linkHover = hex "C770D5"
+    , link = hex "E0444C"
+    , linkHover = hex "E0444C"
     , icon = hex "FFFFFF"
     , background = hex colorRaw.background
     , backgroundAlpha = hex "00000042"

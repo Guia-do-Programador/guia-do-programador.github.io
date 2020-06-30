@@ -33,66 +33,51 @@ githubLinkData =
 
 
 languages =
-    ( [ { label = "OCaml"
+    ( [ { label = "C++"
         , rot = 15
         , scale = 1
         , translate = ( 0, -5 )
-        , url = "https://ocaml.org/"
         }
-      , { label = "SML"
+      , { label = "Python"
         , rot = -15
         , scale = 1.3
         , translate = ( -30, 15 )
-        , url = "https://en.wikipedia.org/wiki/Standard_ML"
         }
-      , { label = "Erlang"
+      , { label = "Java"
         , rot = -5
         , scale = 1.2
         , translate = ( -30, 15 )
-        , url = "https://www.erlang.org/"
         }
-      , { label = "F#"
+      , { label = "C#
         , rot = -2
         , scale = 1.4
         , translate = ( -20, -5 )
-        , url = "https://fsharp.org/"
         }
       , { label = "Elixir"
         , rot = 10
         , scale = 1.3
         , translate = ( -20, 20 )
-        , url = "https://elixir-lang.org/"
         }
       ]
-    , [ { label = "Clojure"
+    , [ { label = "Lua"
         , rot = -7
         , scale = 1.18
         , translate = ( 10, 0 )
-        , url = "https://clojure.org/"
         }
-      , { label = "Elm"
+      , { label = "C"
         , rot = 15
         , scale = 1.4
         , translate = ( 10, 10 )
-        , url = "https://elm-lang.org/"
         }
-      , { label = "Scala"
-        , rot = -20
-        , scale = 1.2
-        , translate = ( 10, 0 )
-        , url = "https://www.scala-lang.org/"
-        }
-      , { label = "Scheme"
+      , { label = "Algorithms"
         , rot = -4
         , scale = 1.3
         , translate = ( -30, 20 )
-        , url = "https://en.wikipedia.org/wiki/Scheme_(programming_language)"
         }
-      , { label = "Haskell"
+      , { label = "Data Structures"
         , rot = 10
         , scale = 1.5
         , translate = ( -20, 15 )
-        , url = "https://www.haskell.org/"
         }
       ]
     )
