@@ -17,10 +17,10 @@ color =
     , icon = hex "FFFFFF"
     , background = hex colorRaw.background
     , backgroundAlpha = hex "00000042"
-    , combinator = hex "36223A"
-    , language = hex "C770D5"
+    , combinator = hex "3a2226"
+    , language = hex "294ba3"
     , primary = hex colorRaw.primary
-    , footer = hex "1C1C1C"
+    , footer = hex "5e0819"
     }
 
 
