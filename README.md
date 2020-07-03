@@ -86,6 +86,7 @@ equipe tenham dominância, claro que ela deve estar entre uma das que são aceit
 
 9. **Se divirta.** Se divertindo fica muito mais fácil, dá pra quase expulsar o nervosismo e boto fé que o desempenho ajuda muito, eu mesmo já comprovei isso.
 
+- Por Thiago Cutrim - Campeão Maranhense
 ##  Agradecimentos
 
 Agradecemos a todos os que contribuíram com esse projeto, em especial a [@Pedinspy](https://github.com/Pedinpsy), [@PedroSanto](https://github.com/elheremes) e [@CarlosSalles](https://github.com/csalles) que possuem uma grande experiencia em maratonas de programação e nos forneceram algumas dicas.
