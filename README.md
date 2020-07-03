@@ -1,4 +1,4 @@
-![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
+![Web Developer Roadmap - 2020](https://i.imgur.com/9mZll7i.jpg)
 
 > Guia para as competições de programação em 2020
 
