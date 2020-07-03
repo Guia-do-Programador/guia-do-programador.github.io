@@ -125,7 +125,7 @@ Além disso, agradecemos ao também a [Anna Clara Vieira](https://www.instagram.
 
 Entre no nosso grupo do [Telegram](https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g)
 
-<img src="./img/telegram.png" style="width:15px;"/>
+[![](./img/telegram.png)](https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g)
 
 ## 📝Licença
 
