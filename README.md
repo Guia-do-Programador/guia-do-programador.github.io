@@ -2,8 +2,11 @@
 
 > Guia para as competições de programação em 2020
 
-colocar tags aqui: conteúdos, site, autores, comunidade. Respectivamente.
+[![](https://img.shields.io/badge/-Conte%C3%BAdos-blue)](https://github.com/Guia-do-Programador)
+[![](https://img.shields.io/badge/-P%C3%A1gina-blue)](http://guia-do-programador.github.io/)
+[![](https://img.shields.io/badge/-Comunidade-blue)](https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g)
 
+*Inspirado por [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)*
 
 A concorrência está aumentando, a graduação está passando, e o que não faltam são cursos e material na internet, é uma bagunça e eu vou te mostrar o que fazer para aproveitar as oportunidades que virão.
 
@@ -75,7 +78,9 @@ Nós separamos alguns sites para você treinar a resolução de questões:
 
 ## 💬 Comunidade
 
-Participe da nossa comunidade no Telegram, interaja com os demais usuários e continue aprendendo.
+Participe da nossa comunidade no "Telegrão"! Interaja com os demais usuários e continue aprendendo.
+
+Não se esqueça ler as regras antes de entrar.
 
 [Link do Telegram](https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g)
 
@@ -113,11 +118,10 @@ Além disso, agradecemos ao também a [Anna Clara Vieira](https://www.instagram.
 
 > Você pode seguir as instruções abaixo para fazer suas contribuições
 
-- Inicie um Pull Request (link instrucoes pull request)
+- Inicie um [Pull Request](https://terminalroot.com.br/2017/12/como-criar-um-pull-request-no-github.html)
 - Prepare-se para discutir problemas!
 - Compartilhe e ajude a comunidade a crescer!
 - Entre em contato sempre que necessário
-
 
 Entre no nosso grupo do [Telegram](https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g)
 
