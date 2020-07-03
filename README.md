@@ -5,7 +5,12 @@
 colocar tags aqui: conteúdos, site, autores, comunidade. Respectivamente.
 
 
-Aqui ficará o paragrafo com o nosso pitch.
+A concorrência está aumentando, a graduação está passando, e o que não faltam são cursos e material na internet, é uma bagunça e eu vou te mostrar o que fazer para aproveitar as oportunidades que virão.
+
+Aqui você tem um guia completo sobre solução de problemas, programação e muito mais usando práticas de maratona competitiva.
+
+Será o único guia que você precisará ver sobre o assunto. Marque o seu amigo que está perdido. Tá na hora de aprender a programar.
+
 ***
 
 <p align="center">
