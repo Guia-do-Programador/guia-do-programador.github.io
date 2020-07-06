@@ -1,7 +1,7 @@
 ![Web Developer Roadmap - 2020](https://i.imgur.com/9mZll7i.jpg)
 
 > Guia para as competições de programação em 2020
-
+> Mais atualizações em breve!
 [![](https://img.shields.io/badge/-Conte%C3%BAdos-blue)](https://github.com/Guia-do-Programador)
 [![](https://img.shields.io/badge/-P%C3%A1gina-blue)](http://guia-do-programador.github.io/)
 [![](https://img.shields.io/badge/-Comunidade-blue)](https://t.me/joinchat/FoVIKRkUpbZZz5uzmc3K6g)
